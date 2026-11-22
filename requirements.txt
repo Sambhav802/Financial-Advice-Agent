@@ -1,0 +1,12 @@
+python-dotenv
+streamlit
+pydantic>=2
+langchain-core
+langchain-groq
+langgraph
+openbb
+pandas_ta==0.3.14b
+ddgs
+numpy<2
+fastapi
+uvicorn
